@@ -1,0 +1,20 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.9.0
+  http://backwpup.com
+  Blog Name: Fictional University
+  Blog URL: http://fictionaluniversity.local
+  Generated on: 2021-07-24 21:34.02
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+BackWPup (v.3.9.0) from Inpsyde GmbH
+	http://backwpup.com
+
+Active plugins:
+------------------------------
+BackWPup
+
+Inactive plugins:
+------------------------------
